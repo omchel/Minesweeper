@@ -2,3 +2,6 @@
 - Implementation of the Microsoft Minesweeper game. 
 - The player clicks on the cell, if it is a bomb the game is over
 - Else, it will contain a number describing the number of bombs that neighbor the cell.
+
+Future Features:
+- Make the clearing of neighboring cells recursive for all the clear area.
